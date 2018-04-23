@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="http://www.jamtechnologies.co/xitologo.png">
 </p>
 
